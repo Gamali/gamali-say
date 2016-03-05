@@ -1,2 +1,3 @@
 # gamali-say
 Gamali say...
+It's some new information. I Like Git!
